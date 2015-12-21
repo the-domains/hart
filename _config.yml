@@ -1,0 +1,28 @@
+name: hart
+favicon: null
+layout_spectrum: 0.1123872387688607
+typography_spectrum: 0.640813565813005
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5178460003808141
+  lightness: 0.623760640854016
+  saturation: 0.9058303609490395
+  rhythmicContrast: 0.27309852140024304
+purpose: []
