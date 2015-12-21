@@ -1,7 +1,7 @@
 name: hart
 favicon: null
-layout_spectrum: 0.1123872387688607
-typography_spectrum: 0.640813565813005
+layout_spectrum: 1
+typography_spectrum: 0.49403
 title: hart roberts
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.5178460003808141
+    - '#00b5e4'
+    - '#ffffff'
+    - '#c6e3ff'
+    - '#80ffff'
+    - '#00ffff'
+  brandStrength: 0.25
   lightness: 0.623760640854016
-  saturation: 0.9058303609490395
+  saturation: 0.8125
   rhythmicContrast: 0.27309852140024304
 purpose: []
