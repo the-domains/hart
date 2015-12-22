@@ -4,7 +4,7 @@
         <description><![CDATA[hart roberts]]></description>
         <link>https://thegrid.ai/hart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 13:58:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Dec 2015 13:58:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hart/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[SpaceX captured the Falcon 9 rocket's launch and landing in one photo]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.theverge.com/2015/12/21/10641938/spacex-falcon-9-launch-landing-photo</link>
             <guid isPermaLink="false">ab40cb9b-96bc-4ec6-92da-b112e576b221</guid>
             <pubDate>Tue, 22 Dec 2015 13:52:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[burnt orange beltline]]></title>
-            <description><![CDATA[<article><h1>burnt orange beltline</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0250da0841dca8a838931982affa8bd8f0a47a66.jpg"></article>]]></description>
-            <link>https://thegrid.ai/hart/35d5f506-b8d1-4f5c-9900-d0a1c4da3258/index.html</link>
-            <guid isPermaLink="false">35d5f506-b8d1-4f5c-9900-d0a1c4da3258</guid>
-            <pubDate>Tue, 22 Dec 2015 03:17:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
