@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Explore the year's biggest moments and the questions they inspired. #yearinsearch"
-datePublished: '2015-12-23T20:49:09.712Z'
-dateModified: '2015-12-23T20:49:07.391Z'
+datePublished: '2015-12-23T21:26:45.364Z'
+dateModified: '2015-12-23T21:26:42.442Z'
 author: []
 related: []
 app_links: []
@@ -26,5 +26,3 @@ _type: MediaObject
 
 ---
 <article style=""><h1>Google Trends</h1><p>Explore the year's biggest moments and the questions they inspired&amp;period; &amp;num;yearinsearch</p><img src="https://gstatic.com/images/branding/googleg/1x/googleg_standard_color_128dp.png" /></article>
-
-Explore the year's biggest moments and the questions they inspired. \#yearinsearch
